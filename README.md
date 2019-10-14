@@ -15,4 +15,5 @@ This is intended to be a no hald-holding exercise where you fight callbacks away
 2. **Clone your fork**
 3. `npm i`
 4. `npm run test:watch`
+5. **Reenable test suites as you get up to them by deleting the `x` before `describe`**
 5. **Push up**

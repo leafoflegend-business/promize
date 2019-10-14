@@ -1,6 +1,6 @@
 const Promize = require('../src/promize.js');
 
-describe('Promize', () => {
+xdescribe('Part 3: Promize', () => {
   it('should be able to be constructed into a promize instance', () => {
     const ourFirstPromise = new Promize(() => {});
 
