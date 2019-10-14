@@ -10,6 +10,11 @@ This is intended to be a no hald-holding exercise where you fight callbacks away
 1. No special utilities, e.g. .race and/or .all
 2. .catch propogates promises downwards still, dont worry about fully implementing catches actual behavior.
 
+### Parts
+1. Callbacks
+2. Real Promise Practice (starts disabled)
+3. Build Your Own Promise (starts disabled)
+
 ### Instructions
 1. **Fork this repo**
 2. **Clone your fork**
